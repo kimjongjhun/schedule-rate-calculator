@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <>
-      <div>after cleanup</div>
-    </>
-  );
+  return <>app component working again </>;
 }
 
 export default App;
